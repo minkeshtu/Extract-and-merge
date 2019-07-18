@@ -3,7 +3,7 @@ Extracting the person from different images and merging them together as a singl
 Used [MASK R-CNN](https://github.com/matterport/Mask_RCNN) for object detection
 
 <p align="center">
-  <img align = 'center' src = 'demo_results_merge/result_1.gif'>
+  <img align = 'center' src = 'demo_results_merge/result_2.gif'>
 </p>
 <center></center>
 
